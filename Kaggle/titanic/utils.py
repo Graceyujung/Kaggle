@@ -61,6 +61,7 @@ def encode_feature(data):
     return data
 
 def detect_outliers_iqr(data, column):
+    
     Q1 = data[column].quantile(0.25)
     Q3 = data[column].quantile(0.75)
     IQR = Q3 - Q1
