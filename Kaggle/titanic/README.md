@@ -44,6 +44,15 @@ Used GridSearchCV, RandomizedSearchCV, cross-validatiom for hyperparameter tunin
 - **Accuracy on validation set**: [0.85]
 - **Kaggle submission score**: [0.78229]
 
+## 🧾 Conclusion
+The analysis shows clear patterns in survival likelihood on the Titanic:
+
+- Women were far more likely to survive — with a survival rate of 74.84% compared to just 18.83% for men.
+
+- First-class passengers had the highest survival rate — 62.79%, followed by second class (47.80%) and third class (23.94%).
+
+- Not traveling alone improved survival odds — passengers with family or companions (IsAlone = 0) survived at a rate of 51.02%, compared to only 30.42% for those traveling alone.
+
 ## 📁 File Structure
 
 ```bash
