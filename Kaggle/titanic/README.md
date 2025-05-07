@@ -62,6 +62,7 @@ titanic/
 ├── main.ipynb
 ├── titanic_train.ipynb
 ├── test.ipynb
+├── utils.py
 ├── submission.csv
 └── README.md
 
