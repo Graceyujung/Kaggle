@@ -60,7 +60,7 @@ titanic/
 ├── train.csv
 ├── test.csv
 ├── main.ipynb
-├── train.ipynb
+├── titanic_train.ipynb
 ├── test.ipynb
 ├── submission.csv
 └── README.md
